@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-polynumeric-master.flake = false;
+  inputs.src-polynumeric-master.ref   = "refs/heads/master";
   inputs.src-polynumeric-master.owner = "SciNim";
-  inputs.src-polynumeric-master.ref   = "master";
   inputs.src-polynumeric-master.repo  = "polynumeric";
   inputs.src-polynumeric-master.type  = "github";
   
