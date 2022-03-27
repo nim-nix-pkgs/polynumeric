@@ -11,6 +11,7 @@
   inputs.src-polynumeric-master.ref   = "refs/heads/master";
   inputs.src-polynumeric-master.owner = "SciNim";
   inputs.src-polynumeric-master.repo  = "polynumeric";
+  inputs.src-polynumeric-master.dir   = "";
   inputs.src-polynumeric-master.type  = "github";
   
   inputs."arraymancer".owner = "nim-nix-pkgs";

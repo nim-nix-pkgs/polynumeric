@@ -11,6 +11,7 @@
   inputs.src-polynumeric-v0_2_1.ref   = "refs/tags/v0.2.1";
   inputs.src-polynumeric-v0_2_1.owner = "SciNim";
   inputs.src-polynumeric-v0_2_1.repo  = "polynumeric";
+  inputs.src-polynumeric-v0_2_1.dir   = "";
   inputs.src-polynumeric-v0_2_1.type  = "github";
   
   inputs."arraymancer".owner = "nim-nix-pkgs";
